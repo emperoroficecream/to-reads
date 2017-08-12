@@ -1,0 +1,25 @@
+{
+  "name": "serverless-task-management",
+  "version": "0.0.1",
+  "description": "A serverless task management tool built on top of Github issues, Zenhub and Webtask",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emperoroficecream/to-reads.git"
+  },
+  "author": "Kat Zhang <ebisu1922@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emperoroficecream/to-reads/issues"
+  },
+  "homepage": "https://github.com/emperoroficecream/to-reads#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "es6-promise": "^4.1.1",
+    "express": "^4.15.4",
+    "isomorphic-fetch": "^2.2.1",
+    "webtask-tools": "^3.2.0"
+  }
+}
